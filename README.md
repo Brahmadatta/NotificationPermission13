@@ -5,12 +5,12 @@ Enabling the Notification Permission Dialog on Android 13 devices
 
 **Initial screen**
 
-![image](https://github.com/Brahmadatta/NotificationPermission13/assets/25858541/729b21eb-42d9-4b42-b83c-0d10b3fbe7e3)
+![image](/Users/brahmadattagoli/Downloads/TestComposeApp2/initialscreen.png)
 
 **Showing Notification Permission to the User**
 
-![image](https://github.com/Brahmadatta/NotificationPermission13/assets/25858541/82535032-bbc9-4737-a23f-650305c94ce9)
+![image](/Users/brahmadattagoli/Downloads/TestComposeApp2/notificationpermission.png)
 
 **Showing Notification After Granting the permission on Show Notification Button click**
 
-![image](https://github.com/Brahmadatta/NotificationPermission13/assets/25858541/a8a2d53e-93d6-4284-a922-428504291c92)
+![image](/Users/brahmadattagoli/Downloads/TestComposeApp2/notification.png)
