@@ -5,7 +5,7 @@ Enabling the Notification Permission Dialog on Android 13 devices
 
 **Initial screen**
 
-![image](/Users/brahmadattagoli/Downloads/TestComposeApp2/initialscreen.png)
+<img alt="image" height="300" src="/Users/brahmadattagoli/Downloads/TestComposeApp2/initialscreen.png" width="300"/>
 
 **Showing Notification Permission to the User**
 
